@@ -1,8 +1,8 @@
 # notes
 
-for number 1,2,3,4,5,6,9 in App.js
-for number 8 in test debug.html,
-the bug in number 8 is because of typo such as {, . and incorect variable}
+for number 1,2,3,4,5,6,9 in App.js.
+for number 8 in test debug.html,.
+the bug in number 8 is because of typo such as {, . and incorect variable}.
 
 # Getting Started with Create React App
 
